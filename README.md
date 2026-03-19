@@ -21,3 +21,4 @@ The task is to develop a multithreaded chat application in Java using a client-s
 
 ##Output
 
+<img width="625" height="195" alt="Image" src="https://github.com/user-attachments/assets/31c4fed4-842d-4b0c-ad12-8e9af473a6ba" />
